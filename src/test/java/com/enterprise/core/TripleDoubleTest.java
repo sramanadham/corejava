@@ -13,6 +13,7 @@ public class TripleDoubleTest {
 	public void tribleDouble() {
 		
 		assertEquals(1,tripleDouble.find(111234555, 3311454));
+		
 	}
 	
 	@Test
