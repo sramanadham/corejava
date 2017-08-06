@@ -1,5 +1,7 @@
 package com.enterprise.core;
 
+import java.util.regex.Pattern;
+
 public class TripleDouble {
 
 	public int find(int first, int second) {
@@ -12,7 +14,9 @@ public class TripleDouble {
 			//end if
 		//end loop
 		//return 0
-
+		
+		//this can be done with regular expression too
+		
 		return 0;
 
 	}
